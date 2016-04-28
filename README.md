@@ -6,3 +6,6 @@ HI, everyone:
 
 Git, operator:
  I am very happy to use git and hub
+
+Git, push:
+ I am push source code to github
